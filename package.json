@@ -1,0 +1,22 @@
+{
+  "name": "simpleserver",
+  "version": "1.0.0",
+  "description": "Very simple server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thvphuc246/SimpleServer.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Phuc Hoang Vinh Truong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thvphuc246/SimpleServer/issues"
+  },
+  "homepage": "https://github.com/thvphuc246/SimpleServer#readme"
+}
